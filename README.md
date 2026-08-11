@@ -4,6 +4,8 @@ An intelligent, multi-modal AI book concierge built on the **Google Agent Develo
 
 Book Concierge helps users discover literature, manage personal reading catalogs, search live online book metadata, generate custom AI cover art, ground recommendations with RAG knowledge, and remember user preferences across sessions.
 
+Generated for this [lab](https://storage.googleapis.com/bwg3/index.html).
+
 ---
 
 ## 🌟 Key Features
